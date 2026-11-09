@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/lain.gif" width="500" alt="Lain at her computer">
+  <br><sub>Serial Experiments Lain (1998)</sub>
+</p>
+
 ## Hi there 👋
 
 Student at HTL Wien West (Media Technology), graduating 2027. I build robots, Linux setups and things that move.
